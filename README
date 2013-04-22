@@ -1,6 +1,6 @@
 DESCRIPTION:
 
-CoilInterface is a compact opto-isolated interface board to adapt the HV kickback pulse
+CoilInterface is a compact opto-isolated interface board designed to adapt the HV kickback pulse
 from an automotive coil pack primary to a digital signal that can be safely consumed by
 a 0-5v digital input.
 
@@ -15,3 +15,6 @@ MORE INFO:
 
 for more information visit http://www.autosportlabs.net
 
+![ScreenShot](https://github.com/autosportlabs/CoilX/blob/master/hardware/CoilX_brd.png?raw=true)
+
+![ScreenShot](https://github.com/autosportlabs/CoilX/blob/master/hardware/CoilX_sch.png?raw=true)
