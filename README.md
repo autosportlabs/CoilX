@@ -17,3 +17,5 @@ for more information visit http://www.autosportlabs.net
 
 ![ScreenShot](https://github.com/autosportlabs/CoilX/blob/master/hardware/CoilX_brd.png?raw=true)
 
+![ScreenShot](https://github.com/autosportlabs/CoilX/blob/master/hardware/CoilX_sch.png?raw=true)
+
