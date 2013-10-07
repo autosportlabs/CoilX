@@ -5198,7 +5198,7 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <part name="GND39" library="supply1" deviceset="GND" device=""/>
 <part name="U2" library="optocoupler" deviceset="TLP283" device=""/>
 <part name="R2" library="rcl" deviceset="R-US_" device="R1206" value="1K"/>
-<part name="D2" library="smt_diodes" deviceset="ZENER" device="2" value="24V .5W"/>
+<part name="D2" library="smt_diodes" deviceset="ZENER" device="2" value="75V .5W"/>
 <part name="R1" library="rcl" deviceset="R-US_" device="R0603" value="10K"/>
 <part name="P+27" library="supply1" deviceset="+5V" device=""/>
 <part name="GND_EXT" library="wirepad" deviceset="WIREPAD" device="3,17/1,2"/>
